@@ -1,0 +1,4 @@
+# Login-Links
+Aplicacion Web para crear usuarios con sus links favoritos
+
+Hola Gente, les comparto una aplicación web para guardar links, incluyendo login y registro(con MySQL) y protección de rutas,  Front(CSS, Bootstrap,Handlebars) sin usar React, en cambio  usando Handlebars se logra renderizar plantillas dinámicas directamente del lado del servidor como tb almacenar datos en inputs creando formularios dinámicos, etc, una opción que realmente me sorprendio y recomiendo, Back(Nodejs, Mysql, Express), conoci mediante este proyecto métodos de express que no conocía render, redirect, etc y obviamente uniendo todo nuestro gran amigo JS!!, en este proyecto me guie en ciertos puntos por el ya conocido Fazt (mis respetos), pero utilice tecnologías y métodos mas nuevos y simplifique muchas cosas, dejo un video y el repo seguro a muchos les puede servir, saludos y éxitos!!!
